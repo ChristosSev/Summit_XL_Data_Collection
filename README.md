@@ -1,2 +1,2 @@
 # Summit_XL_Data_Collection
-Collecting data
+Collecting ROS data
